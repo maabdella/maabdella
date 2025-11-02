@@ -3,14 +3,15 @@
   Hey! Nice to see you.
 </h1>
 
-<p>Welcome to my page! <br /> I'm Mohamed, a Computer Science student passionate about web and mobile development.</p>
+<p>Welcome to my page! <br /> I'm <strong>Mohamed Abdella Ali</strong>, a Computer Science student from Alexandria, Egypt 🇪🇬. I'm passionate about web and mobile development, and I love learning new technologies!</p>
 
 <h3>🌱 What I'm learning</h3>
 <ul>
   <li>HTML & CSS – building beautiful, responsive websites</li>
-  <li>Python – exploring scripting and automation</li>
-  <li>Java – understanding object-oriented programming</li>
-  <li>Dart & Flutter – creating cross-platform mobile apps</li>
+  <li>Python – scripting and automation</li>
+  <li>Java – object-oriented programming</li>
+  <li>Dart & Flutter – cross-platform mobile apps</li>
+  <li>C++ – mastering core programming concepts and performance</li>
 </ul>
 
 <h3>🛠️ Tools I use</h3>
@@ -21,14 +22,25 @@
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<h3>🚀 Projects I'm working on</h3>
+<h3>📱 My Portfolio</h3>
+<p>Here are some of the projects I've worked on recently:</p>
+
 <ul>
-  <li>Web projects using HTML/CSS</li>
-  <li>Python scripts for automation</li>
-  <li>A Flutter app for mobile platforms</li>
+  <li>
+    <strong>🧭 Travel Guide App (Flutter)</strong><br />
+    A mobile app built with Flutter and Dart that helps users explore tourist attractions in Egypt. Features include:
+    <ul>
+      <li>Interactive map with location pins</li>
+      <li>Attraction details and images</li>
+      <li>Dark mode support</li>
+    </ul>
+    <em>Tech stack:</em> Flutter, Dart, Google Maps API<br />
+    🔗 <a href="https://github.com/YOUR_USERNAME/YOUR_FLUTTER_REPO">View on GitHub</a>
+  </li>
 </ul>
 
 <h3>📚 Open source contributions</h3>
@@ -59,5 +71,3 @@
   "This <i>README</i> file is a work in progress. Last updated on Sunday, November 2, 2025."<br />
   <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" />
   <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41" />
-  <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41" />
-</p>
