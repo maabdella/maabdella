@@ -39,7 +39,7 @@
       <li>Dark mode support</li>
     </ul>
     <em>Tech stack:</em> Flutter, Dart, Google Maps API<br />
-    🔗 <a href="https://github.com/YOUR_USERNAME/YOUR_FLUTTER_REPO">View on GitHub</a>
+    🔗 <a href="[https://github.com/YOUR_USERNAME/YOUR_FLUTTER_REPO](https://github.com/maabdella/FvisionAid)">View on GitHub</a>
   </li>
 </ul>
 
@@ -68,6 +68,6 @@
 <hr />
 
 <p align="center">
-  "This <i>README</i> file is a work in progress. Last updated on Sunday, November 2, 2025."<br />
+  "This <i>README</i> file is not updated every three months as intended. Last refreshed on Monday, September 3, 2024."<br />
   <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" />
   <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41" />
