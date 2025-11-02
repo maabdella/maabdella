@@ -26,48 +26,11 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-<h3>📱 My Portfolio</h3>
-<p>Here are some of the projects I've worked on recently:</p>
 
-<ul>
-  <li>
-    <strong>🧭 Travel Guide App (Flutter)</strong><br />
-    A mobile app built with Flutter and Dart that helps users explore tourist attractions in Egypt. Features include:
-    <ul>
-      <li>Interactive map with location pins</li>
-      <li>Attraction details and images</li>
-      <li>Dark mode support</li>
-    </ul>
-    <em>Tech stack:</em> Flutter, Dart, Google Maps API<br />
-    🔗 <a href="[https://github.com/YOUR_USERNAME/YOUR_FLUTTER_REPO](https://github.com/maabdella/FvisionAid)">View on GitHub</a>
-  </li>
-</ul>
-
-<h3>📚 Open source contributions</h3>
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Coming soon...</td>
-      <td>–</td>
-      <td>–</td>
-      <td>–</td>
-      <td>–</td>
-    </tr>
-  </tbody>
-</table>
 
 <hr />
 
 <p align="center">
   "This <i>README</i> file is not updated every three months as intended. Last refreshed on Monday, September 3, 2024."<br />
-  <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" />
-  <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41" />
+  
+  
