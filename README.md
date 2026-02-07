@@ -10,7 +10,7 @@
   <li>HTML & CSS – building beautiful, responsive websites</li>
   <li>Python – scripting and automation</li>
   <li>Java – object-oriented programming</li>
-  <li>C++ – mastering core programming concepts and performance</li>
+  <li>C++ – programming concepts and performance</li>
   <li>Dart & Flutter – cross-platform mobile apps</li>
 </ul>
 
@@ -31,6 +31,6 @@
 <hr />
 
 <p align="center">
-  "This <i>README</i> file is not updated every three months as intended. Last refreshed on Monday, September 3, 2024."<br />
+  "This <i>README</i> file is not updated <br />
   
   
