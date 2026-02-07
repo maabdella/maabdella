@@ -3,7 +3,7 @@
   Hey! Nice to see you.
 </h1>
 
-<p>Welcome to my page! <br /> I'm <strong>Mohamed Abdella Ali</strong>, a Computer Science student from Alexandria, Egypt 🇪🇬.</n> I'm passionate about web and mobile development, and I love learning new technologies!</p>
+<p>Welcome to my page! <br /> I'm <strong>Mohamed Abdella Ali</strong>, a Computer Science student from Alexandria, Egypt 🇪🇬.<br /> I'm passionate about web and mobile development, and I love learning new technologies!</p>
 
 <h3>🌱 What I'm learning</h3>
 <ul>
